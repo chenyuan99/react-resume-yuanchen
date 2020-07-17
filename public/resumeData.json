@@ -2,17 +2,17 @@
   "main": {
     "name":"Yuan Chen",
     "occupation":"Undergrad Student",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description":"My name is Yuan Chen. I am currently a Senior at Virginia Tech pursuing a bachelor's degree in Computer Science and a Business minor. I am currently looking for a Summer Internship in Software Engineering in 2021. ",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "chenyuan99@yahoo.com",
     "phone": "540-252-8499",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"425 Stonegate Dr.",
+      "city":"Blacksburg",
+      "state":"Virginia)",
+      "zip": "24060"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
@@ -29,8 +29,8 @@
       },
       {
         "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
+        "url":"",
+        "className":""
       },
       {
         "name":"linkedin",
@@ -58,9 +58,9 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
+        "school":"Virginia Tech",
+        "degree":"BS in Computer Science",
+        "graduated":"May 2021 (Expected)",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
